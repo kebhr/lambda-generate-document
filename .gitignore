@@ -1,0 +1,5 @@
+./main
+*.zip
+
+.idea/
+.DS_Store
